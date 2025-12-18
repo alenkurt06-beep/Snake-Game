@@ -56,10 +56,14 @@ python snake_game.py
 📸 Kamera otomatik açılacaktır.
 
 📁 Proje Yapısı
+
 Snake-Game/
 │
+
 ├── snake_game.py     # Ana oyun dosyası
+
 ├── Donut.png         # Yiyecek görseli
+
 └── README.md         # Proje açıklaması
 
 ⚠️ Notlar
