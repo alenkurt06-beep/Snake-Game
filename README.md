@@ -33,3 +33,7 @@ Gerekli kütüphaneleri yüklemek için:
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+## ▶️ Çalıştırma
